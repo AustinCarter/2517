@@ -1,12 +1,1 @@
-------------------------------------------------------------------------
-This is the project README file. Here, you should describe your project.
-Tell the reader (someone who does not know anything about this project)
-all he/she needs to know. The comments should usually include at least:
-------------------------------------------------------------------------
-
-PROJECT TITLE:
-PURPOSE OF PROJECT:
-VERSION or DATE:
-HOW TO START THIS PROJECT:
-AUTHORS:
-USER INSTRUCTIONS:
+This is 2517, a project created by me and two classmates (Thomas Schwalen and Tanner Davis) during highschool. This game is a mess, it was made by three highschool students in the span of three months, and it is easy to tell. Despite how much this game lacks in terms of polish and good development, I am quite proud of it. The ray casting rendering engine, quest scripting, and essentially every other aspect of this game was written by us. And while the code base is messy and buggy, we were able to create an RPG in three months that feels like an actual game with things populating the world, places you can go and things you can do, which is not trivial. Additionally, doing such an ambitious project gave me the oppritunity to learn A LOT, which has made my future programs much more managable and performant. There is no real deployment plan (if you are on windows the 2517.bat should run the game, but it can be buggy and sometimes will not go fullscreen. Additionally the way that the fullscreen works will froce your computers displayport to render at a low resolution until the game is exited. The game's performance is lacking, we probably didn't do a good job of optimizing the code, and everything is rendering through the Java Swing library, which is not an ideal means of rendering when speed is a concern. 
