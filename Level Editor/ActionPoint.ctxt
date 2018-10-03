@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=r\ c\ open_r\ open_c\ type
+comment0.target=ActionPoint(int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=int\ get_r()
+comment2.params=
+comment2.target=int\ get_c()
+comment3.params=
+comment3.target=int\ getOpen_r()
+comment4.params=
+comment4.target=int\ getOpen_c()
+comment5.params=
+comment5.target=int\ getType()
+comment6.params=
+comment6.target=void\ switchSetting()
+comment7.params=
+comment7.target=boolean\ isOn()
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=x\ y\ texture\ type\ myEngine\ ident\ quest
+comment0.target=QuestGiver(float,\ float,\ int,\ int,\ GameEngine,\ int,\ Quest)
+comment1.params=
+comment1.target=void\ update()
+numComments=2

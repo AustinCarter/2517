@@ -1,0 +1,44 @@
+7
+10
+Money,99863254
+Pistol,10025
+Energy,10016
+Shotgun,10050
+Intermidiate,10000
+Rifle,10140
+1
+Overlord's Slapstick,AK,33,1,4,195,22,22500
+0,0
+1
+Extended Mag pumpShotgun,pumpShotgun,19,2,8,50,16,12500
+0,1
+1
+Suomi,Suomi,6,3,5,80,24,13000
+0,2
+1
+HK51,HK51,15,2,4,130,10,13000
+0,3
+1
+Agram,Agram,14,3,5,60,24,21000
+0,4
+1
+Extended Mag pumpShotgun,pumpShotgun,19,2,8,50,16,12500
+0,5
+1
+Mauser,Mauser,9,2,2,100,10,10000
+0,6
+3
+Polemian,10
+0,7
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+0,8
+1
+G11,G11,45,2,2,100,10,10000
+0,9
+3
+Health,18
+1,1
+1
+AK,AK,24,1,4,180,22,22500
+1,3

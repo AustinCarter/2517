@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=Tank(double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Tank\r\n
+comment1.params=x
+comment1.target=void\ setX(int)
+comment10.params=
+comment10.target=void\ turnLeft()
+comment11.params=gr
+comment11.target=void\ draw(java.awt.Graphics)
+comment2.params=y
+comment2.target=void\ setY(int)
+comment3.params=
+comment3.target=double\ getX()
+comment4.params=
+comment4.target=double\ getY()
+comment5.params=x\ y
+comment5.target=double\ distTo(double,\ double)
+comment6.params=
+comment6.target=void\ forward()
+comment7.params=
+comment7.target=void\ reverse()
+comment8.params=mousex\ mousey
+comment8.target=void\ update(int,\ int)
+comment9.params=
+comment9.target=void\ turnRight()
+numComments=12

@@ -1,0 +1,218 @@
+7
+10
+Money,100
+Pistol,10
+Energy,10
+Shotgun,10
+Intermidiate,10
+Rifle,10
+3
+Energy,180
+0,0
+3
+Pistol,100
+0,1
+3
+Rifle,100
+0,2
+3
+Shotgun,100
+0,3
+3
+Money,300
+0,4
+3
+Solar Cell,100
+0,5
+3
+Polychromite,100
+0,6
+3
+Ununseptium,100
+0,7
+3
+Exotic Plant1,100
+0,8
+3
+Exotic Plant2,100
+0,9
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+1,0
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+1,1
+1
+Extended Mag pumpShotgun,pumpShotgun,18,2,7,50,11,12500
+1,2
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+1,3
+1
+AK,AK,24,1,4,180,24,22500
+1,4
+1
+AK,AK,24,1,4,180,24,22500
+1,5
+1
+AK,AK,24,1,4,180,24,22500
+1,6
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+1,7
+1
+AK,AK,24,1,4,180,24,22500
+1,8
+1
+AK,AK,24,1,4,180,24,22500
+1,9
+1
+AK,AK,24,1,4,180,24,22500
+2,0
+1
+Vengeful HK51,HK51,23,2,5,130,11,13000
+2,1
+1
+AK,AK,24,1,4,180,24,22500
+2,2
+1
+AK,AK,24,1,4,180,24,22500
+2,3
+1
+HK51,HK51,15,2,6,130,11,13000
+2,4
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+2,5
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+2,6
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+2,7
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+2,8
+1
+AK,AK,24,1,4,180,24,22500
+2,9
+1
+Vengeful Suomi,Suomi,16,3,7,80,24,13000
+3,0
+1
+HK51,HK51,15,2,6,130,11,13000
+3,1
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+3,2
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+3,3
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+3,4
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+3,5
+1
+HK51,HK51,17,2,5,130,11,13000
+3,6
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+3,7
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+3,8
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+3,9
+1
+Extended Mag Mauser,Mauser,10,2,4,100,20,10000
+4,0
+1
+HK51,HK51,17,2,5,130,11,13000
+4,1
+1
+Mauser,Mauser,9,2,3,100,10,10000
+4,2
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+4,3
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+4,4
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+4,5
+1
+Vengeful pumpShotgun,pumpShotgun,27,2,9,50,6,12500
+4,6
+1
+Suomi,Suomi,7,3,7,80,25,13000
+4,7
+1
+AK,AK,25,1,5,180,22,22500
+4,8
+1
+Suomi,Suomi,8,3,6,80,24,13000
+4,9
+1
+Mauser,Mauser,9,2,6,100,12,10000
+5,0
+1
+AK,AK,24,1,4,180,24,22500
+5,1
+1
+Suomi,Suomi,9,3,6,80,25,13000
+5,2
+1
+Mauser,Mauser,9,2,4,100,10,10000
+5,3
+1
+Glock,Glock,5,2,3,80,8,7500
+5,4
+1
+Vengeful pumpShotgun,pumpShotgun,28,2,8,50,5,12500
+5,5
+1
+Suomi,Suomi,7,3,7,80,25,13000
+5,6
+1
+Augmented Agram,Agram,16,3,6,90,28,21000
+5,7
+1
+Extended Mag pumpShotgun,pumpShotgun,18,2,7,50,11,12500
+5,8
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+5,9
+1
+Augmented Mauser,Mauser,14,2,3,130,17,10000
+6,0
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,1
+1
+HK51,HK51,15,2,5,130,10,13000
+6,2
+1
+Extended Mag pumpShotgun,pumpShotgun,18,2,7,50,11,12500
+6,3
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,4
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,5
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,6
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,7
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,8
+1
+Extended Mag Glock,Glock,5,2,3,80,13,7500
+6,9

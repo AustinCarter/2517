@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=stepX\ stepY\ mapX\ mapY\ side
+comment0.target=Stripe(int,\ int,\ int,\ int,\ int)
+comment1.params=
+comment1.target=void\ setDoor()
+numComments=2

@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Item()
+comment1.params=amount
+comment1.target=void\ remove(int)
+comment1.text=public\ String\ toString()\n\ \ \ \ {\n\ \ \ \ \ \ \ \ String\ stats\ \=\ "";\n\ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ for(String\ s\:\ data)\n\ \ \ \ \ \ \ \ \ \ \ \ stats\ +\=\ s\ +\ "\ ";\n\ \ \ \ \ \ \ \ \ \ \ \ \n\ \ \ \ \ \ \ \ return\ stats;\n\ \ \ \ \ \ \ \ \ \n}
+comment2.params=
+comment2.target=java.lang.String[]\ getData()
+comment3.params=
+comment3.target=Img\ getImage()
+comment4.params=g\ x\ y
+comment4.target=void\ draw(java.awt.Graphics,\ int,\ int)
+comment5.params=g\ rx\ ry
+comment5.target=void\ sdraw(java.awt.Graphics,\ int,\ int)
+comment6.params=
+comment6.target=java.lang.String\ getType()
+comment7.params=amount
+comment7.target=void\ setAmount(int)
+numComments=8

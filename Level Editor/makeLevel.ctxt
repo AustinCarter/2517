@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=name\ width\ height\ music\ skybox\ defFloor\ defCeil\ defBord\ covered\ aggressive
+comment0.target=makeLevel(java.lang.String,\ int,\ int,\ int,\ int,\ int,\ int,\ int,\ boolean,\ boolean)
+comment1.params=
+comment1.target=void\ makeFile()
+comment2.params=width\ height
+comment2.target=void\ makeMap(int,\ int)
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ vx\ vy\ angle\ bad
+comment0.target=Bullet(double,\ double,\ double,\ double,\ double,\ boolean)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=g\ rx\ ry
+comment2.target=void\ draw(java.awt.Graphics,\ double,\ double)
+numComments=3

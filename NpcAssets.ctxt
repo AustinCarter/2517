@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=NpcAssets()
+comment1.params=
+comment1.target=void\ loadTex()
+comment2.params=type\ index
+comment2.target=java.awt.image.BufferedImage\ output(int,\ int)
+numComments=3

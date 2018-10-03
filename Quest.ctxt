@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Quest()
+comment1.params=n
+comment1.target=Quest(java.lang.String)
+comment2.params=
+comment2.target=void\ start()
+comment3.params=
+comment3.target=void\ complete()
+comment4.params=
+comment4.target=java.awt.image.BufferedImage\ output()
+comment5.params=
+comment5.target=void\ saveQuest()
+comment6.params=
+comment6.target=void\ loadQuest()
+numComments=7

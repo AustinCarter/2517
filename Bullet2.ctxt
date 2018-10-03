@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=x\ y\ dx\ dy\ range\ damage\ friendly
+comment0.target=Bullet2(float,\ float,\ float,\ float,\ int,\ int,\ boolean)
+comment1.params=
+comment1.target=void\ update()
+comment2.params=s
+comment2.target=void\ setSpeed(float)
+numComments=3

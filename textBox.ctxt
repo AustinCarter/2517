@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=text
+comment0.target=textBox(java.lang.String)
+comment1.params=index
+comment1.target=int\ nearestWhitespace(int)
+comment2.params=
+comment2.target=java.awt.image.BufferedImage\ output()
+numComments=3

@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=javax.sound.sampled.Clip\ getClip()
+comment1.params=_looping
+comment1.target=void\ setLooping(boolean)
+comment10.params=
+comment10.target=void\ stop()
+comment11.params=
+comment11.target=boolean\ isLoaded()
+comment2.params=
+comment2.target=boolean\ getLooping()
+comment3.params=_repeat
+comment3.target=void\ setRepeat(int)
+comment4.params=
+comment4.target=int\ getRepeat()
+comment5.params=filename
+comment5.target=java.net.URL\ getURL(java.lang.String)
+comment6.params=
+comment6.target=java.lang.String\ getName()
+comment7.params=filename
+comment7.target=SoundEffect(java.lang.String)
+comment8.params=
+comment8.target=void\ play()
+comment9.params=amount
+comment9.target=void\ changeVolume(float)
+numComments=12

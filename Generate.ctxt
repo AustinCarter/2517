@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ init()
+comment0.text=public\ static\ void\ main(String\ []\ args)\ throws\ IOException\n\ \ \ \ {\n\ \ \ \ init();\n\ \ \ \ int\ tier\ \=\ (int)(Math.random()\ *\ 4);\n\ \ \ \ System.out.println(dropItem(tier));\n}
+comment1.params=tier\ x\ y
+comment1.target=Item\ dropItem(int,\ int,\ int)
+numComments=2

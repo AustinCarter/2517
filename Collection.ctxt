@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Collection()
+comment1.params=n
+comment1.target=Collection(java.lang.String)
+comment2.params=
+comment2.target=void\ checkComplete()
+comment3.params=
+comment3.target=void\ saveQuest()
+comment4.params=
+comment4.target=void\ loadQuest()
+numComments=5

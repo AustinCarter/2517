@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=KillQuestSpace()
+comment1.params=n
+comment1.target=KillQuestSpace(java.lang.String)
+comment2.params=t
+comment2.target=void\ checkKill(int)
+comment3.params=
+comment3.target=void\ checkComplete()
+comment4.params=
+comment4.target=void\ saveQuest()
+comment5.params=
+comment5.target=void\ loadQuest()
+numComments=6

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=type
+comment0.target=Weapon2(int)
+comment1.params=type
+comment1.target=void\ defineAttributes(int)
+comment2.params=
+comment2.target=void\ getTextures()
+comment3.params=
+comment3.target=java.awt.image.BufferedImage\ idle()
+numComments=4
